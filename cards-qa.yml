@@ -3,7 +3,7 @@ build:
   version: "2.0"
 
 cards:
-  message: "Welcome to EazyBank cards related QA APIs "
+  message: "Welcome to EazyBank cards related QA123 APIs "
   contactDetails:
     name: "Cherryl Pankaj - QA Lead"
     email: "{cipher}1234c81dd96b6c2d1c26d66aeb1e7918e5480a9a06ed3999bc91710733a9674a14aa541fbf61d9ffd5aeba3eece6b0c4"
